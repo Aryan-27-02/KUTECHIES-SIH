@@ -1,0 +1,11 @@
+audit_id,timestamp,school_name,city_type,survey_mode,overall_ssi,risk_level,priority_score,total_defects,critical_defects,warnings,crossing_score,footpath_score,signage_score,parking_score,calming_score,video_filename
+AUD-2026-001,2026-09-08 08:30:00,St. Mary's Convent School,Tier-1 Metro (Dense Arterial),Two-Wheeler,42.5,HIGH,82.5,14,6,8,30.0,25.0,40.0,50.0,75.0,st_marys_survey.mp4
+AUD-2026-002,2026-09-09 13:45:00,Vidya Mandir High School,Tier-2 Compact (Mixed Residential),Walking,68.0,MODERATE,42.0,7,2,5,60.0,55.0,80.0,70.0,80.0,vidya_mandir_survey.mp4
+AUD-2026-003,2026-09-10 07:45:00,Greenwood Public School,Tier-1 Metro (Suburban Planned),Walking,86.5,SAFE,15.0,2,0,2,95.0,90.0,90.0,80.0,75.0,greenwood_survey.mp4
+AUD-20260910-151256,2026-09-10 15:12:56,St. Xavier's High School (Gate 2),Tier-1 Dense Metro (High Traffic),Two-Wheeler Mount (15 km/h),59.5,MODERATE,65.5,32,32,0,10.0,100.0,10.0,100.0,100.0,sample_school_zone.mp4 (Built-in Demo)
+AUD-20260910-151817,2026-09-10 15:18:17,St. Xavier's High School (Gate 2),Tier-1 Dense Metro (High Traffic),Two-Wheeler Mount (15 km/h),59.5,MODERATE,65.5,32,32,0,10.0,100.0,10.0,100.0,100.0,sample_school_zone.mp4 (Built-in Demo)
+AUD-20260910-152218,2026-09-10 15:22:18,St. Xavier's High School (Gate 2),Tier-1 Dense Metro (High Traffic),Two-Wheeler Mount (15 km/h),64.0,MODERATE,61.0,46,41,5,70.0,100.0,10.0,100.0,30.0,WhatsApp Video 2026-09-10 at 15.20.08.mp4
+AUD-20260910-163237,2026-09-10 16:32:37,St. Xavier's High School (Gate 2),Tier-1 Dense Metro (High Traffic),Two-Wheeler Mount (15 km/h),64.0,MODERATE,61.0,46,41,5,70.0,100.0,10.0,100.0,30.0,WhatsApp Video 2026-09-10 at 15.20.08.mp4
+AUD-20260910-163311,2026-09-10 16:33:11,St. Xavier's High School (Gate 2),Tier-1 Dense Metro (High Traffic),Two-Wheeler Mount (15 km/h),64.0,MODERATE,61.0,46,41,5,70.0,100.0,10.0,100.0,30.0,WhatsApp Video 2026-09-10 at 15.20.08.mp4
+AUD-20260910-182153,2026-09-10 18:21:53,Test School,Tier-1 Metro,Smartphone Walk,59.5,MODERATE,65.5,20,20,0,10.0,100.0,10.0,100.0,100.0,uploaded_audit.mp4
+AUD-20260910-182408,2026-09-10 18:24:08,Test School,Tier-1 Metro,Smartphone Walk,59.5,MODERATE,65.5,20,20,0,10.0,100.0,10.0,100.0,100.0,uploaded_audit.mp4

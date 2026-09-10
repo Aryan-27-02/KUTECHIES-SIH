@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / Scratch
+.system_generated/
+*.tmp
+*.log
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit local runtime state
+.streamlit/secrets.toml
+
+# Exclude generated output frames from tracking (keeps repo under GitHub 100MB limit)
+output/evidence_frames/*
+!output/evidence_frames/.gitkeep
