@@ -43,7 +43,7 @@ class ConditionClassifier:
         self.model = None
         self._load_or_build_model()
 
-    def _build_keras_model(self) -> keras.Model:
+    def _build_keras_model(self):
         """
         Constructs a lightweight Convolutional Neural Network in Keras for edge inference.
         """
